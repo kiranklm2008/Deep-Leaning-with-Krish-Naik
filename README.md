@@ -1,6 +1,6 @@
 # Deep-Leaning-with-Krish-Naik
 
-This is for the practice the Deep Learning Tutorial created by Krish Naik.
+This is to practice the Deep Learning Tutorial created by Krish Naik.
 
 Churn Modelling
 Introduction
