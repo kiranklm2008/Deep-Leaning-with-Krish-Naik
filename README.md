@@ -18,5 +18,6 @@ Summary Information about the variables and their types in the data
 10) IsActiveMember : Does the customer has an active mebership (0=No,1=Yes)
 11) EstimatedSalary : The estimated salary of the customer
 12) Exited : Churned or not? (0=No,1=Yes)
+
 Our Goal:
 Create a ANN model to predict if a customer will leave the bank or not.
